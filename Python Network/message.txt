@@ -1,0 +1,9 @@
+Dear User,
+
+I sent this email to you using Python
+
+I just wanted to say hello!
+
+Sincerely,
+
+Aghilan Nathan
